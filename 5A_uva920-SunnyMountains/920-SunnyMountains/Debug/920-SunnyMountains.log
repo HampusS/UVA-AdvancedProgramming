@@ -1,0 +1,4 @@
+﻿  920SunnyMountains.cpp
+c:\users\hampz\source\repos\920-sunnymountains\920-sunnymountains\920sunnymountains.cpp(45): warning C4018: '<': signed/unsigned mismatch
+  920-SunnyMountains.vcxproj -> C:\Users\hampz\source\repos\920-SunnyMountains\Debug\920-SunnyMountains.exe
+  920-SunnyMountains.vcxproj -> C:\Users\hampz\source\repos\920-SunnyMountains\Debug\920-SunnyMountains.pdb (Partial PDB)
